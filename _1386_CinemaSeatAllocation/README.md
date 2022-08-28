@@ -20,7 +20,7 @@
     - 橫跨左側走道<br>![](./img/pattern_left.png)
     - 橫跨右側走道<br>![](./img/pattern_right.png)
     - 中排座位<br>![](./img/pattern_middle.png)
-- 每一列的座位狀態與Pattern作`&`計算，運算結果與Pattern的數值相同則視為有連續做有可派位。
+- 每一列的座位狀態與Pattern作`&`計算，運算結果與Pattern的數值相同則視為有連續座位可派位。
   - 範例
     - 假設某一列的座位狀態為如下：
       ```text
