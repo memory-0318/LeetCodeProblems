@@ -70,5 +70,6 @@
         <module>_1386_CinemaSeatAllocation</module>
         <module>_0001_TwoSum</module>
         <module>_0121_BestTimeToBuyAndSellStock</module>
+        <module>_0238_ProductOfArrayExceptSelf</module>
     </modules>
 </project>
